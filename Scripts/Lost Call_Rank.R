@@ -1,3 +1,9 @@
+# =======================================
+# Lost Call Rank Analysis
+# White-faced capuchins (Cebus imitator)
+# Chapoy et al., 2026
+# ======================================
+
 ## Packages#### 
 suppressPackageStartupMessages({
   library(MASS)        # lda

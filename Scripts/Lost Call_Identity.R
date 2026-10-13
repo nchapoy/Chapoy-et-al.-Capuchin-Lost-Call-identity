@@ -1,7 +1,7 @@
 # =======================================
 # Lost Call Individual Identity Analysis
 # White-faced capuchins (Cebus imitator)
-# Chapoy et al.
+# Chapoy et al., 2026
 # ======================================
 
 #Packages
@@ -207,7 +207,7 @@ ci_df <- data.frame(
 
 print(ci_df)
 
-# Console summary ####
+#summary ####
 cat("\n=== SUMMARY ===\n")
 cat("Groups: ", paste(levels(y), collapse=", "), "\n", sep="")
 cat("Features (", length(feature_cols), "): ", paste(feature_cols, collapse=", "), "\n", sep="")
