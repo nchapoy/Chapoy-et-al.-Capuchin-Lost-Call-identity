@@ -1,0 +1,10 @@
+
+cff-version: 1.2.0
+message: "If you use these data or analyses, please cite this repository."
+title: "Lost calls vary with individual identity but not dominance rank in white-faced capuchins (Cebus imitator)"
+type: dataset
+authors:
+  - family-names: Chapoy
+    given-names: Nicholas
+repository-code: "https://github.com/nchapoy/Chapoy-et-al.-Capuchin-Lost-Call-identity"
+license: CC-BY-4.0
